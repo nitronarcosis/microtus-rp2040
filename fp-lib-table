@@ -1,5 +1,5 @@
 (fp_lib_table
   (lib (name sparkfun-sw)(type KiCad)(uri ${KIPRJMOD}/Footprints/Switches.pretty)(options "")(descr ""))
   (lib (name Keebio)(type KiCad)(uri ${KIPRJMOD}/Footprints/Keebio-Parts.pretty-master)(options "")(descr ""))
-  (lib (name RP2040_minimal)(type KiCad)(uri C:/Users/Ryan/Documents/GitHub/PyKey87/pykey60/PCB-design/RP2040_minimal.pretty)(options "")(descr ""))
+  (lib (name RP2040_minimal)(type KiCad)(uri ${KIPRJMOD}/RP2040_minimal.pretty)(options "")(descr ""))
 )

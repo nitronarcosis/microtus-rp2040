@@ -1,6 +1,6 @@
 (sym_lib_table
   (lib (name Sparkfun-em)(type Legacy)(uri ${KIPRJMOD}/Libraries/SparkFun-Electromechanical.lib)(options "")(descr ""))
-  (lib (name Sparkfun-sw)(type Legacy)(uri C:/Users/Ryan/Documents/GitHub/Microtus/Libraries/SparkFun-Switches.lib)(options "")(descr ""))
+  (lib (name Sparkfun-sw)(type Legacy)(uri ${KIPRJMOD}/Libraries/SparkFun-Switches.lib)(options "")(descr ""))
   (lib (name MCU_RaspberryPi_RP2040)(type Legacy)(uri ${KIPRJMOD}/MCU_RaspberryPi_RP2040.lib)(options "")(descr ""))
   (lib (name Encoders)(type Legacy)(uri ${KIPRJMOD}/Encoders.lib)(options "")(descr ""))
 )
