@@ -1,0 +1,12 @@
+### Module positions - created on 2022-01-13 04:20
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 50.650mm, Pcb Width 69.150mm [based on Edge bounding box]
+## Side : top
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+SW3           SW_Push             Kailh-PG1350-1u-NoLED         59.5000    -33.0000   59.5000    -38.9000      0.0    top       THD
+SW1           SW_Push             Kailh-PG1350-1u-NoLED         9.5000     -33.0000   9.5000     -38.9000      0.0    top       THD
+SW5           Rotary_Encoder      RotaryEncoder_Alps_EC11E_Ve.. 16.0100    -16.7640   0.0000     0.0000      180.0    top       THD
+J3            Conn_01x03          PinHeader_1x03_P2.54mm_Vert.. 38.7350    -48.3300   38.7350    -48.3300    -90.0    top       THD
+## End

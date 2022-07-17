@@ -64,8 +64,8 @@
       35,
       36
     ],
-    "visible_layers": "003d3ff_80000001",
-    "zone_display_mode": 0
+    "visible_layers": "003ffff_80000001",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "Microtus-rp2040.kicad_prl",

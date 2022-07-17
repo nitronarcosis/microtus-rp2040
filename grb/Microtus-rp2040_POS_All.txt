@@ -1,0 +1,54 @@
+### Module positions - created on 2022-01-13 04:20
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 50.650mm, Pcb Width 69.150mm [based on Edge bounding box]
+## Side : ALL
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+S1            JOYSTICK_THUMB      JOYSTICK                      34.5000    -14.2240   0.0000     0.0000        0.0    top       VIRTUAL
+SW3           SW_Push             Kailh-PG1350-1u-NoLED         59.5000    -33.0000   59.5000    -38.9000      0.0    top       THD
+SW1           SW_Push             Kailh-PG1350-1u-NoLED         9.5000     -33.0000   9.5000     -38.9000      0.0    top       THD
+SW5           Rotary_Encoder      RotaryEncoder_Alps_EC11E_Ve.. 16.0100    -16.7640   0.0000     0.0000      180.0    top       THD
+J3            Conn_01x03          PinHeader_1x03_P2.54mm_Vert.. 38.7350    -48.3300   38.7350    -48.3300    -90.0    top       THD
+C1            22u                 C_0603_1608Metric             56.6420    -14.4780   56.6420    -15.2530     90.0    bottom    SMD
+C2            22u                 C_0603_1608Metric             56.6420    -18.0620   56.6420    -17.2870    -90.0    bottom    SMD
+C4            22p                 C_0402_1005Metric             48.5400    -33.7820   49.0200    -33.7820    180.0    bottom    SMD
+C5            22p                 C_0402_1005Metric             48.4130    -39.2620   47.9330    -39.2620      0.0    bottom    SMD
+C6            100n                C_0402_1005Metric             34.0360    -37.0840   34.5160    -37.0840    180.0    bottom    SMD
+C7            100n                C_0402_1005Metric             46.1230    -39.1160   45.6430    -39.1160      0.0    bottom    SMD
+C8            1u                  C_0402_1005Metric             32.2580    -39.6240   32.7380    -39.6240    180.0    bottom    SMD
+C9            100n                C_0402_1005Metric             32.7660    -40.8940   33.2460    -40.8940    180.0    bottom    SMD
+C10           100n                C_0402_1005Metric             37.8460    -43.4340   37.8460    -42.9540    -90.0    bottom    SMD
+C11           100n                C_0402_1005Metric             32.1310    -37.7190   32.6110    -37.7190    180.0    bottom    SMD
+C12           100n                C_0402_1005Metric             36.5760    -43.4340   36.5760    -42.9540    -90.0    bottom    SMD
+C13           1u                  C_0402_1005Metric             35.3060    -43.4340   35.3060    -42.9540    -90.0    bottom    SMD
+C14           100n                C_0402_1005Metric             35.3060    -30.7340   35.3060    -31.2140     90.0    bottom    SMD
+C15           100n                C_0402_1005Metric             40.3860    -30.7340   40.3860    -31.2140     90.0    bottom    SMD
+C16           100n                C_0402_1005Metric             46.1230    -38.1000   45.6430    -38.1000      0.0    bottom    SMD
+R3            5.1k                R_0402_1005Metric             47.2440    -5.5880    47.2440    -6.0980      90.0    bottom    SMD
+R4            5.1k                R_0402_1005Metric             59.9440    -5.5880    59.9440    -6.0980      90.0    bottom    SMD
+R5            1k                  R_0402_1005Metric             46.0540    -36.9570   45.5440    -36.9570      0.0    bottom    SMD
+R6            22                  R_0402_1005Metric             29.9720    -38.1000   29.4620    -38.1000      0.0    bottom    SMD
+R7            22                  R_0402_1005Metric             29.9720    -39.2430   29.4620    -39.2430      0.0    bottom    SMD
+SW4           SW_SPST             SW_SPST_EVQP0                 46.9900    -45.7200   49.8700    -47.7200      0.0    bottom    SMD
+U1            AMS1117-3.3         SOT-223-3_TabPin2             62.7380    -17.2720   59.5880    -19.5720      0.0    bottom    SMD
+U3            USBLC6-2SC6         SOT-23-6                      53.8480    -13.4620   52.8980    -12.3620    -90.0    bottom    SMD
+Y1            12MHz               Crystal_SMD_3225-4Pin_3.2x2.. 48.7940    -36.4490   49.6440    -35.3490    -90.0    bottom    SMD
+J1            Conn_01x04          JST_SH_SM04B-SRSS-TB_1x04-1.. 20.3200    -3.8100    18.8200    -5.8100       0.0    bottom    SMD
+U4            RP2040              RP2040-QFN-56                 39.1160    -37.0840   36.5160    -33.6465    -90.0    bottom    SMD
+J2            USB_C_Receptacle_.. USB_C_Receptacle_HRO_TYPE-C.. 53.5940    -4.3180    0.0000     0.0000        0.0    bottom    SMD
+R2            DNP                 R_0402_1005Metric             33.7820    -32.1310   34.2920    -32.1310    180.0    bottom    SMD
+JP1           Jumper_NO_Small     PinHeader_1x02_P2.00mm_Vert.. 20.0660    -41.6560   20.0660    -41.6560      0.0    bottom    THD
+R1            1k                  R_0402_1005Metric             21.2090    -33.0740   21.7190    -33.0740    180.0    bottom    SMD
+C3            100n                C_0402_1005Metric             21.2090    -31.9310   20.7290    -31.9310      0.0    bottom    SMD
+U2            W25Q128JVS          SOIC-8_5.23x5.23mm_P1.27mm    28.0670    -33.8360   31.6670    -31.9310    180.0    bottom    SMD
+## End
+## 170 SMD pads
+## 22 TH pads
+## 14 Virtual pads
+## 4 Top TH modules
+## 1 Bot TH modules
+## 0 Top SMD modules
+## 31 Bot SMD modules
+## 1 Top Virtual modules
+## 0 Bot Virtual modules
