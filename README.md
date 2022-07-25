@@ -14,3 +14,8 @@ I build a cool new keyboard and wanted to see if I could design a "mouse" that w
 #### Name
 It's not a mouse but it's a genus of small-eared voles. It's related enough but not the same.
 
+# Renders
+
+![Microtus RP2040 Top Render](Microtus-rp2040_top.png)
+
+![Microtus RP2040 Bottom Render](Microtus-rp2040_bottom.png)
